@@ -3,7 +3,13 @@ const router = require("./router");
 const cors = require('cors')
 
 const app = express();
-app.use(cors());
+
+const cors_options = {
+    origin: "*",
+    optionsSuccessStatus: 200,
+};
+app.use(cors(cors_options));
+
 app.use(express.json());
 
 app.use('/api/info', router);
