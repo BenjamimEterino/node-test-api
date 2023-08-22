@@ -1,0 +1,121 @@
+[
+    {
+        "id": "1",
+        "nome": "Planta de apartamento T3",
+        "categoria": "arquitetura",
+        "preco": 500000,
+        "img_url": ["../../../images/products-grid/arquitetura.jpg"]
+    },
+    {
+        "id": "2",
+        "nome": "Construção de moradia tipo 2",
+        "categoria": "construcao_civil",
+        "preco": 74455,
+        "img_url": ["../../../images/products-grid/arquitetura.jpg"]
+    },
+    {
+        "id": "3",
+        "nome": "Cabos eléctricos e tomadas",
+        "categoria": "electricidade",
+        "preco": 5454,
+        "img_url": ["../../../images/products-grid/fios.jpg"]
+    },
+    {
+        "id": "4",
+        "nome": "Sofás e mesa de centro",
+        "categoria": "mobiliaria",
+        "preco": 7857,
+        "img_url": ["../../../images/products-grid/sofa.jpg"]
+    },
+    {
+        "id": "5",
+        "nome": "Arreia branca 18m3",
+        "categoria": "arreia_pedras",
+        "preco": 5274275,
+        "img_url": ["../../../images/products-grid/arreia.jpg"]
+    },
+    {
+        "id": "6",
+        "nome": "Blocos de cimento tamanho 10",
+        "categoria": "blocos tijolos",
+        "preco": 50021,
+        "img_url": ["../../../images/products-grid/blocos.jpg"]
+    },
+    {
+        "id": "7",
+        "nome": "1 tonelada de betão armado",
+        "categoria": "betao",
+        "preco": 47574,
+        "img_url": ["../../../images/products-grid/carro-betao.jpg"]
+    },
+    {
+        "id": "8",
+        "nome": "Máquina de fabricar betão",
+        "categoria": "maquinas",
+        "preco": 7274,
+        "img_url": ["../../../images/products-grid/betoneira.jpg"]
+    },
+    {
+        "id": "9",
+        "nome": "Planta de apartamento T2",
+        "categoria": "arquitetura",
+        "preco": 75875,
+        "img_url": ["../../../images/products-grid/arquiteto.jpg"]
+    },
+    {
+        "id": "10",
+        "nome": "Colocação de Pavê",
+        "categoria": "construcao_civil",
+        "preco": 57572,
+        "img_url": ["../../../images/products-grid/pave.jpg"]
+    },
+    {
+        "id": "11",
+        "nome": "Disjuntores e interruptores",
+        "categoria": "electricidade",
+        "preco": 100000,
+        "img_url": ["../../../images/products-grid/disjuntoe.jpg"]
+    },
+    {
+        "id": "12",
+        "nome": "Sofá-cama",
+        "categoria": "mobiliaria",
+        "preco": 120000,
+        "img_url": ["../../../images/products-grid/sofa-cama.jpg"]
+    },
+    {
+        "id": "13",
+        "nome": "Arreia grossa 18m3",
+        "categoria": "arreia_pedras",
+        "preco": 210000,
+        "img_url": ["../../../images/products-grid/arreia.jpg","../../../images/products-grid/tijolos.jpg","../../../images/products-grid/arreia.jpg","../../../images/products-grid/arreia.jpg","../../../images/products-grid/arreia.jpg"]
+    },
+    {
+        "id": "14",
+        "nome": "Tijolos tamanho 7",
+        "categoria": "blocos tijolos",
+        "preco": 202212.20,
+        "img_url": ["../../../images/products-grid/tijolos.jpg"]
+    },
+    {
+        "id": "15",
+        "nome": "Meia tonelada de betão armado",
+        "categoria": "betao",
+        "preco": 124000,
+        "img_url": ["../../../images/products-grid/carro-betao.jpg"]
+    },
+    {
+        "id": "16",
+        "nome": "Guindaste",
+        "categoria": "maquinas",
+        "preco": 450000,
+        "img_url": ["../../../images/products-grid/guindaste.jpg"]
+    },
+    {
+        "id": "17",
+        "nome": "Guindaste 2",
+        "categoria": "maquinas",
+        "preco": 450000,
+        "img_url": ["../../../images/products-grid/guindaste.jpg"]
+    }
+]
